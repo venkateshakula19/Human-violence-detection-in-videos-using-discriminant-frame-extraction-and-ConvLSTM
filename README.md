@@ -1,1 +1,2 @@
 # Human-violence-detection-in-videos-using-discriminant-frame-extraction-and-ConvLSTM
+The proposed model extract significant temporal features of the human actions from videos using an efficient preprocessing technique. The preprocessing stage includes keyframe extraction, computing optical flow features, and HOG features. The extracted features are forwarded to ConvLSTM for learning. The datasets used in the proposed model are Action Movies, Hockey Fight, and Violent Flows. 
